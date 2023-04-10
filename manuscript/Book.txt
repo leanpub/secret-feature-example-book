@@ -1,1 +1,1 @@
-special-PDF-book-file.txt
+special-PDF-sample-file.txt
