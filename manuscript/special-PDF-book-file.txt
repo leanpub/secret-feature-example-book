@@ -1,0 +1,7 @@
+# Special PDF Book File
+
+This is the special PDF file we have created for this book, to show off how this secret feature works.
+
+When someone buys this book, this is the PDF file they will get.
+
+This will not be the same as the PDF file you, as the author, would normally generate when previewing your book and publishing new versions.
