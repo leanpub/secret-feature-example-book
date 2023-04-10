@@ -1,0 +1,3 @@
+# Custom Sample PDF
+
+This is the sample PDF file that will be available to people who buy the book.
